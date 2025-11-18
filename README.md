@@ -1,4 +1,7 @@
 ## Hi there 👋
+i love my cat🐈🐈
+
+coding since 2025: <img width="90" height="168" alt="image" src="https://github.com/user-attachments/assets/57d34b28-10f5-4295-91ee-aac1c364af7b" />
 
 <!--
 **Fifizn/Fifizn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
